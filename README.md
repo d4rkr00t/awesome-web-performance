@@ -15,7 +15,10 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Analyzers](#analyzers)
   - [Bundle Analyzers](#bundle-analyzers)
   - [Benhcmarking / Load Testing](#benhcmarking--load-testing)
+  - [Image Optimization](#image-optimization)
   - [Tracers](#tracers)
+- [Specs](#specs)
+- [Stats](#stats)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Articles
