@@ -75,6 +75,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [https://developer.chrome.com/tags/performance/](https://developer.chrome.com/tags/performance/)
 - [https://v8.dev/](https://v8.dev/)
 - [https://csswizardry.com/](https://csswizardry.com/)
+- [Infrequently Noted](https://infrequently.org/)
 
 ## Social Media
 
