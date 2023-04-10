@@ -10,6 +10,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [Articles](#articles)
 - [Talks / Videos](#talks--videos)
 - [Case Studies](#case-studies)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Social Media](#social-media)
 - [Courses](#courses)
@@ -61,6 +62,11 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - 2021
   - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
+
+## Podcasts
+
+- 2023
+  - [JS Party: Web development's lost decade](https://changelog.com/jsparty/263)
 
 ## Blogs
 
