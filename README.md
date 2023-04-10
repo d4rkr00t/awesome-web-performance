@@ -4,13 +4,13 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 ## Table of Contents
 
-- [Articles](#articles)
-- [Talks / Videos](#talks--videos)
-- [Case Studies](#case-studies)
+<!-- toc -->
+
 - [Blogs](#blogs)
+- [Social Media](#social-media)
 - [Courses](#courses)
 - [Books](#books)
-- [Converences](#converences)
+- [Conferences](#conferences)
 - [Tools](#tools)
   - [Analyzers](#analyzers)
   - [Bundle Analyzers](#bundle-analyzers)
@@ -20,6 +20,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [Specs](#specs)
 - [Stats](#stats)
 - [Other Awesome Lists](#other-awesome-lists)
+
+<!-- tocstop -->
 
 ## Articles
 
@@ -43,6 +45,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Anatomy of the browser 101 (Chrome University 2019)](https://www.youtube.com/watch?v=PzzNuCk-e0Y) — Chrome, Chrome University, Browser Internals.
   - [Anatomy of the browser 201 (Chrome University 2019)](https://www.youtube.com/watch?v=u7berRU9Qys) — Chrome, Chrome University, Browser Internals.
   - [Life of a navigation (Chrome University 2019)](https://www.youtube.com/watch?v=OFIvyc1y1ws) — Chrome, Chrome University, Browser Internals.
+- 2020
+  - [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) — Chrome, Blink, Browser Internals, Browser Rendering.
 - 2022
   - [CSS runtime performance | Nolan Lawson](https://www.youtube.com/watch?v=nWcexTnvIKI) — CSS, Browser Rendering.
   - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.
@@ -57,6 +61,19 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [https://calendar.perfplanet.com/](https://calendar.perfplanet.com/)
 - [https://web.dev/tags/performance/](https://web.dev/tags/performance/)
 - [https://v8.dev/](https://v8.dev/)
+- [https://csswizardry.com/](https://csswizardry.com/)
+
+## Social Media
+
+- [Addy Osmani](https://twitter.com/addyosmani)
+- [Alex Russell](https://twitter.com/slightlylate)
+- [Dan Shappir ](https://twitter.com/DanShappir)
+- [Harry Roberts](https://twitter.com/csswizardry)
+- [Ivan Akulov](https://twitter.com/iamakulov)
+- [Patrick Meenan](https://twitter.com/patmeenan)
+- [Stoyan Stefanov](https://twitter.com/stoyanstefanov)
+- [Tim Kadlec](https://twitter.com/tkadlec)
+- [Yoav Weiss](https://twitter.com/yoavweiss)
 
 ## Courses
 
@@ -66,7 +83,7 @@ TBD
 
 TBD
 
-## Converences
+## Conferences
 
 - [https://twitter.com/perfnowconf](https://twitter.com/perfnowconf)
 
@@ -76,6 +93,7 @@ TBD
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) — Automated auditing, performance metrics, and best practices for the web.
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
+- [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 
 ### Bundle Analyzers
 
@@ -102,7 +120,7 @@ TBD
 ### Tracers
 
 - [Indicium: V8 runtime tracer tool](https://v8.dev/blog/system-analyzer) — V8, Browser Internals, Tracer.
-- [Trace Cafe](https://trace.cafe/) — View and shore Chrome DevTools traces.
+- [Trace Cafe](https://trace.cafe/) — View and share Chrome DevTools traces.
 
 ## Specs
 

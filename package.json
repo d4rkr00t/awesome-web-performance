@@ -1,0 +1,29 @@
+{
+  "name": "awesome-web-performance",
+  "version": "1.0.0",
+  "description": "A list of Web Performance Optimization techniques, tools and resources.",
+  "scripts": {
+    "prepare": "husky install",
+    "toc": "markdown-toc-gen insert README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4rkr00t/awesome-web-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4rkr00t/awesome-web-performance/issues"
+  },
+  "homepage": "https://github.com/d4rkr00t/awesome-web-performance#readme",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "markdown-toc-gen": "^1.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pnpm run toc"
+    }
+  }
+}
