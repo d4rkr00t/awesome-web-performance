@@ -6,6 +6,10 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 <!-- toc -->
 
+- [Table of Contents](#table-of-contents)
+- [Articles](#articles)
+- [Talks / Videos](#talks--videos)
+- [Case Studies](#case-studies)
 - [Blogs](#blogs)
 - [Social Media](#social-media)
 - [Courses](#courses)
