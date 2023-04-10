@@ -35,6 +35,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [The Right Way to Bundle Your Assets for Faster Sites Over HTTP2](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff) — Bundling, Network, HTTP, HTTP2.
 - 2020
   - [Maximally optimizing image loading for the web](https://www.industrialempathy.com/posts/image-optimizations/) — Images, Lazy Loading, HTML.
+- 2021
+  - [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture/) — Chrome, RenderingNG, Browser Internals.
 - 2022
   - [Prerender pages in Chrome for instant page navigations](https://developer.chrome.com/blog/prerender-pages/) — Chrome, Page Load, Prerender, Prefetch.
 - 2023
@@ -64,6 +66,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - [https://calendar.perfplanet.com/](https://calendar.perfplanet.com/)
 - [https://web.dev/tags/performance/](https://web.dev/tags/performance/)
+- [https://developer.chrome.com/tags/performance/](https://developer.chrome.com/tags/performance/)
 - [https://v8.dev/](https://v8.dev/)
 - [https://csswizardry.com/](https://csswizardry.com/)
 
