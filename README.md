@@ -54,6 +54,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Life of a navigation (Chrome University 2019)](https://www.youtube.com/watch?v=OFIvyc1y1ws) — Chrome, Chrome University, Browser Internals.
 - 2020
   - [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) — Chrome, Blink, Browser Internals, Browser Rendering.
+- 2021
+  - [From 'Fully Loaded' to Core Web Vitals: Understanding the Evolution of Performance Metrics](https://www.youtube.com/watch?v=zcvsk3LstJo)
 - 2022
   - [CSS runtime performance | Nolan Lawson](https://www.youtube.com/watch?v=nWcexTnvIKI) — CSS, Browser Rendering.
   - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.
