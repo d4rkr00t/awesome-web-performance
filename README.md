@@ -22,6 +22,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Benhcmarking / Load Testing](#benhcmarking--load-testing)
   - [Image Optimization](#image-optimization)
   - [Tracers](#tracers)
+- [Web Vitals](#web-vitals)
 - [Specs](#specs)
 - [Stats](#stats)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -137,6 +138,10 @@ TBD
 
 - [Indicium: V8 runtime tracer tool](https://v8.dev/blog/system-analyzer) — V8, Browser Internals, Tracer.
 - [Trace Cafe](https://trace.cafe/) — View and share Chrome DevTools traces.
+
+## Web Vitals
+
+- [Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/master/docs/speed/metrics_changelog/README.md) — Changelog for Web Vitals Metrics.
 
 ## Specs
 
