@@ -145,6 +145,7 @@ TBD
 ## Stats
 
 - [HTTPArchive](http://httparchive.org/index.php) — HTTP Archive periodically crawls the top sites on the web and record detailed information about fetched resources, used web platform APIs and features, and execution traces of each page. And then crunches and analyze this data to identify trends.
+- [WPO Stats](https://wpostats.com/) — Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 
 ## Other Awesome Lists
 
