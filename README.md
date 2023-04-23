@@ -61,6 +61,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2022
   - [CSS runtime performance | Nolan Lawson](https://www.youtube.com/watch?v=nWcexTnvIKI) — CSS, Browser Rendering. On the client side, we pay a lot of attention to JavaScript performance. But relatively little time is spent on CSS, even though style and layout calculation can impact runtime performance as well. In this talk, I'd like to demystify some aspects of CSS runtime performance, exploring what parts the browser has already optimized, and what we as web developers can do to speed up styling.
   - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make them feel faster.
+- 2023
+  - [Intro to Runtime Performance in the Chrome DevTools Performance Panel with Annie Sullivan](https://www.youtube.com/watch?v=3_5DKEx72qk) — Chrome, Chrome Dev Tools, Performance Profiling, Begginer Level. Annie Sullivan, Software Engineer on Google's Chrome Web Platform Team, is digging into runtime performance in the Chrome DevTools Performance Panel.
 
 ## Case Studies
 
