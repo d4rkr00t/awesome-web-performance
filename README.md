@@ -50,16 +50,17 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2018
   - [Архитектура и производительность фронтенда](https://www.youtube.com/watch?v=pIQo6yCicQk) — Architecure, SSR, Island Architecture, Yandex (Russian Only).
 - 2019
-  - [Anatomy of the browser 101 (Chrome University 2019)](https://www.youtube.com/watch?v=PzzNuCk-e0Y) — Chrome, Chrome University, Browser Internals.
-  - [Anatomy of the browser 201 (Chrome University 2019)](https://www.youtube.com/watch?v=u7berRU9Qys) — Chrome, Chrome University, Browser Internals.
-  - [Life of a navigation (Chrome University 2019)](https://www.youtube.com/watch?v=OFIvyc1y1ws) — Chrome, Chrome University, Browser Internals.
+  - [Anatomy of the browser 101 (Chrome University 2019)](https://www.youtube.com/watch?v=PzzNuCk-e0Y) — Chrome, Chrome University, Browser Internals. Architecture of Chrome, including the process model, layering of components, and the directory structure.
+  - [Anatomy of the browser 201 (Chrome University 2019)](https://www.youtube.com/watch?v=u7berRU9Qys) — Chrome, Chrome University, Browser Internals. Here we explore the major objects and common patterns in the Chromium codebase.
+  - [Life of a navigation (Chrome University 2019)](https://www.youtube.com/watch?v=OFIvyc1y1ws) — Chrome, Chrome University, Browser Internals. Alex’s talk describes the steps taken in Chrome to navigate from one web page to another. It covers the various parts, processes, and steps taken in making it happen.
 - 2020
-  - [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) — Chrome, Blink, Browser Internals, Browser Rendering.
+  - [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) — Chrome, Blink, Browser Internals, Browser Rendering. A tour of the internals of Chromium's rendering architecture, tracing the steps in the pipeline from web content to display pixels. Concretizes high-level concepts with pointers to important classes and data structures in the codebase.
+  - [Life of a Script](https://www.youtube.com/watch?v=veYjbF1rt5o) — Chrome, V8, Blink, Browser Internals, JavaScript. The design of V8 and current ongoing work, garbage collection and how V8 fits into Blink and Chrome, and how WebAssembly fits into that picture.
 - 2021
-  - [From 'Fully Loaded' to Core Web Vitals: Understanding the Evolution of Performance Metrics](https://www.youtube.com/watch?v=zcvsk3LstJo)
+  - [From 'Fully Loaded' to Core Web Vitals: Understanding the Evolution of Performance Metrics](https://www.youtube.com/watch?v=zcvsk3LstJo) — WebVitals, RUM, Performance Metrics. In this talk, Patrick and Tim explore how we got to this point, the metrics we’ve loved along the way, and how the new core web vital metrics are seeking to provide some stability to the picture. They get into the weeds about how each metric is reported, what they’re good at, and a few shortcomings and gotcha’s to be aware of.
 - 2022
-  - [CSS runtime performance | Nolan Lawson](https://www.youtube.com/watch?v=nWcexTnvIKI) — CSS, Browser Rendering.
-  - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.
+  - [CSS runtime performance | Nolan Lawson](https://www.youtube.com/watch?v=nWcexTnvIKI) — CSS, Browser Rendering. On the client side, we pay a lot of attention to JavaScript performance. But relatively little time is spent on CSS, even though style and layout calculation can impact runtime performance as well. In this talk, I'd like to demystify some aspects of CSS runtime performance, exploring what parts the browser has already optimized, and what we as web developers can do to speed up styling.
+  - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make them feel faster.
 
 ## Case Studies
 
