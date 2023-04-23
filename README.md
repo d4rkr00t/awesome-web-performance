@@ -33,6 +33,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - 2015
   - [Rendering Performance – Web Fundamentals](https://developers.google.com/web/fundamentals/performance/rendering) — Browser Rendering, Browser Layout.
+  - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) — JavaScript, Event Loop, Microtasks, Tasks.
 - 2016
   - [The Right Way to Bundle Your Assets for Faster Sites Over HTTP2](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff) — Bundling, Network, HTTP, HTTP2.
 - 2020
