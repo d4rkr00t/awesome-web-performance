@@ -48,6 +48,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 ## Talks / Videos
 
+- 2014
+  - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) — Event Loop, JavaScript, Browser Internals. JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”. We say things like “don’t block the event loop”, “make sure your code runs at 60 frames-per-second”, “well of course, it won’t work, that function is an asynchronous callback!” If you’re anything like me, you nod and agree, as if it’s all obvious, even though you don’t actually know what the words mean; and yet, finding good explanations of how JavaScript actually works isn’t all that easy, so let’s learn! With some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs.
 - 2018
   - [Архитектура и производительность фронтенда](https://www.youtube.com/watch?v=pIQo6yCicQk) — Architecure, SSR, Island Architecture, Yandex (Russian Only).
 - 2019
