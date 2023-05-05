@@ -100,6 +100,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 ## Courses
 
+- [Lightning-Fast Web Performance](https://www.webpagetest.org/learn/lightning-fast-web-performance/) — Free course from WebPageTest. Beginner level.
+
 TBD
 
 ## Books
