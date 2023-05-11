@@ -73,6 +73,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - 2021
   - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
+- 2023
+  - [How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
 
 ## Frameworks
 
