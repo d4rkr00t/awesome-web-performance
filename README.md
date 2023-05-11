@@ -10,6 +10,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [Articles](#articles)
 - [Talks / Videos](#talks--videos)
 - [Case Studies](#case-studies)
+- [Frameworks](#frameworks)
+  - [Qwik](#qwik)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Social Media](#social-media)
@@ -71,6 +73,13 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - 2021
   - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
+
+## Frameworks
+
+### Qwik
+
+- 2023
+  - [Speculative Module Fetching: a Modern Approach to Faster App Interactivity](https://www.builder.io/blog/speculative-module-fetching) — Qwik, JavaScript, Performance, Builder.io, Interactivity, Lazy Loading, Module Fetching, Resumability.
 
 ## Podcasts
 
