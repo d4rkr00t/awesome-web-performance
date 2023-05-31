@@ -23,6 +23,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Bundle Analyzers](#bundle-analyzers)
   - [Benhcmarking / Load Testing](#benhcmarking--load-testing)
   - [Image Optimization](#image-optimization)
+  - [Resources](#resources)
   - [Tracers](#tracers)
 - [Web Vitals](#web-vitals)
 - [Specs](#specs)
@@ -153,6 +154,11 @@ TBD
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
+
+### Resources
+
+- [CSS Triggers](https://csstriggers.com/) – A list of CSS properties that can cause: Layout, Paint or Composite
+- [JS Triggers](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) – A list of JavaScript DOM APIs that can cause Reflow / Force layout
 
 ### Tracers
 
