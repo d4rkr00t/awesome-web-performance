@@ -114,8 +114,6 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 - [Lightning-Fast Web Performance](https://www.webpagetest.org/learn/lightning-fast-web-performance/) — Free course from WebPageTest. Beginner level.
 
-TBD
-
 ## Books
 
 TBD
@@ -132,6 +130,7 @@ TBD
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
+- [Capo](https://chrome.google.com/webstore/detail/capo-get-your-%3Chead%3E-in-o/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
 
 ### Bundle Analyzers
 
