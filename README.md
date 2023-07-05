@@ -13,6 +13,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [Frameworks](#frameworks)
   - [Qwik](#qwik)
 - [Podcasts](#podcasts)
+  - [Performance Specific](#performance-specific)
+  - [Performance Episodes](#performance-episodes)
 - [Blogs](#blogs)
 - [Social Media](#social-media)
 - [Courses](#courses)
@@ -85,6 +87,12 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Speculative Module Fetching: a Modern Approach to Faster App Interactivity](https://www.builder.io/blog/speculative-module-fetching) — Qwik, JavaScript, Performance, Builder.io, Interactivity, Lazy Loading, Module Fetching, Resumability.
 
 ## Podcasts
+
+### Performance Specific
+
+- [Catching Up With Web Performance](https://catchingup.dev)
+
+### Performance Episodes
 
 - 2023
   - [JS Party: Web development's lost decade](https://changelog.com/jsparty/263)
