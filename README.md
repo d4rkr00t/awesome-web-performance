@@ -50,6 +50,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2023
   - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/) — CSS, Microsoft, Selector, DOM.
   - [Using :is() in complex selectors selects more than you might initially think](https://www.bram.us/2023/01/17/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/) — CSS, Selectors.
+  - [Fixing INP with a VIEWPORT tag](https://www.phpied.com/fixing-inp-with-a-viewport-tag/) – INP, WebVitals, Lighthouse, Viewport, Mobile
 
 ## Talks / Videos
 
