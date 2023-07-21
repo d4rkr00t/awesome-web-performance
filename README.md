@@ -155,6 +155,7 @@ TBD
 - [Yandex Tank](https://github.com/yandex/yandex-tank) — Load and performance benchmark tool.
 - [JSBen.ch](https://jsben.ch/) — Online JavaScript benchmarking tool.
 - [Perf.link](perf.link) — Benchmarking tool for JavaScript.
+- [Browserbench](https://browserbench.org/) – Benchmarks for browsers: Speedometer, MotionMark, JetStream2.
 
 ### Image Optimization
 
