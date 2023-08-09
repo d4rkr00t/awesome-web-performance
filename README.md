@@ -80,6 +80,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
 - 2023
   - [How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
+  - [How Back/forward Cache Helped Yahoo! JAPAN News Increase Revenue by 9% on Mobile](https://web.dev/yahoo-japan-news-bfcache/) – Bfcache is a browser optimization that improves the browsing experience for users by enabling instant back and forward navigation. Yahoo! JAPAN News saw significant user experience and business improvements after increasing their bfcache hit rate, including a 9% increase in ads revenue.
 
 ## Frameworks
 
