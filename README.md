@@ -74,6 +74,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Progressively loading images](https://www.youtube.com/watch?v=-7k3H2GxE5E) – HTTP203 Show, Images, Progressive Images.In this episode, Jake (that's him on the left) and Surma (that's the other one) chat about how the different image formats load, and what you can do to make them feel faster.
 - 2023
   - [Intro to Runtime Performance in the Chrome DevTools Performance Panel with Annie Sullivan](https://www.youtube.com/watch?v=3_5DKEx72qk) — Chrome, Chrome Dev Tools, Performance Profiling, Begginer Level. Annie Sullivan, Software Engineer on Google's Chrome Web Platform Team, is digging into runtime performance in the Chrome DevTools Performance Panel.
+  - [Копаемся под капотом браузера, как работает event loop и compositing, Сергей Чикуенок](https://www.youtube.com/watch?v=On2EWADF81Y) — Chrome, Chrome Dev Tools, Rednering, Layout, Composition, Advanced Level (Russian Only).
 
 ## Case Studies
 
