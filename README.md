@@ -55,6 +55,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Speeding up V8 heap snapshots](https://v8.dev/blog/speeding-up-v8-heap-snapshots) — Chrome, V8, Heap snapshots
 - 2024
   - [Object Structure in JavaScript Engines](https://blog.frontend-almanac.com/js-object-structure) – JavaScript, V8, Object Structure, Memory Management, Chrome
+  - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript) – JavaScript, Optimization, Micro-Optimization
 
 ## Talks / Videos
 
