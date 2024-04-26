@@ -173,6 +173,7 @@ TBD
 - [CSS Triggers](https://csstriggers.com/) – A list of CSS properties that can cause: Layout, Paint or Composite
 - [JS Triggers](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) – A list of JavaScript DOM APIs that can cause Reflow / Force layout
 - [WebPerf Snippets](https://github.com/nucliweb/webperf-snippets) – A curated list of snippets to get Web Performance metrics to use in the browser console or as snippets on Chrome DevTools.
+- [Latency numbers every frontend developer should know](https://vercel.com/blog/latency-numbers-every-web-developer-should-know) – A list of latency numbers every frontend developer should know.
 
 ### Tracers
 
