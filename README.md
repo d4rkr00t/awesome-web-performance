@@ -53,6 +53,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Fixing INP with a VIEWPORT tag](https://www.phpied.com/fixing-inp-with-a-viewport-tag/) – INP, WebVitals, Lighthouse, Viewport, Mobile
   - [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/) – Large DOM sizes have more of an effect on interactivity than you might think. This guide explains why, and what you can do.
   - [Speeding up V8 heap snapshots](https://v8.dev/blog/speeding-up-v8-heap-snapshots) — Chrome, V8, Heap snapshots
+- 2024
+  - [Object Structure in JavaScript Engines](https://blog.frontend-almanac.com/js-object-structure) – JavaScript, V8, Object Structure, Memory Management, Chrome
 
 ## Talks / Videos
 
