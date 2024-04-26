@@ -152,6 +152,7 @@ TBD
 - [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) — Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Whybundled](https://github.com/d4rkr00t/whybundled) — Answers the question – Why the hell is this module in a bundle?
 - [Statoscope](https://github.com/statoscope/statoscope) — Statoscope is a toolkit to analyze and validate webpack bundle.
+- [Rsdoctor](https://rsdoctor.dev/) – Analyzer for Rspack & Webpack. Visualize the building process.
 
 ### Benhcmarking / Load Testing
 
