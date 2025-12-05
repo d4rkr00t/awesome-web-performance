@@ -177,6 +177,7 @@ TBD
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
+- [Best Image Resize](https://app.bestimageresize.com/) — Resize images for web and social around a custom focal point; fast multi-size crops and exports.
 
 ### Resources
 
