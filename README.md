@@ -89,6 +89,8 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [DevTools Deep Dive | Jack Franklin | performance.now() 2024](https://www.youtube.com/watch?v=Di_B1eUo0pM) — Chrome, Chrome Dev Tools
 - 2025
   - [Speculations about Web Performance - Barry Pollard - performance.now() 2025](https://www.youtube.com/watch?v=DqE9WV76wFo) – Speculation Rules, Prefetch, Prerender
+  - [How to Think like a Performance Engineer - Harry Roberts - performance.now() 2025](https://www.youtube.com/watch?v=IgI5u4fd3sI) – Perf tooling, performance mindset, beginner
+  - [The Chrome DevTools Performance Panel | Rick Viscomi](https://www.youtube.com/watch?v=nJ-h7UWdXZA) – Chrome devtools overview, beginner
 
 ## Case Studies
 
