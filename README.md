@@ -185,6 +185,7 @@ TBD
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
+- [LeanImg](https://leanimg.com) — Browser-based tool: compress, resize, crop, and convert between 11 formats (JPG, PNG, WebP, AVIF, HEIC, etc.). Uses WASM codecs. No upload required.
 
 ### Resources
 
