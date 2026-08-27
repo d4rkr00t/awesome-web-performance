@@ -161,6 +161,7 @@ TBD
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
 - [Capo](https://chrome.google.com/webstore/detail/capo-get-your-%3Chead%3E-in-o/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
+- [Comparar Velocidad Web](https://landing-five-dusky-44.vercel.app/comparar-velocidad) — Free tool to run PageSpeed on two URLs side by side and compare Core Web Vitals.
 
 ### Bundle Analyzers
 
