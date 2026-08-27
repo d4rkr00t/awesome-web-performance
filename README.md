@@ -158,6 +158,7 @@ TBD
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) — Automated auditing, performance metrics, and best practices for the web.
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
+- [PageGuard](https://pageguard.org) — Free website performance and health analyzer. Measures Core Web Vitals (LCP, FCP, CLS, TTFB), SEO, and accessibility with AI-powered recommendations.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
 - [Capo](https://chrome.google.com/webstore/detail/capo-get-your-%3Chead%3E-in-o/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
