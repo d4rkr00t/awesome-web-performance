@@ -185,6 +185,7 @@ TBD
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
+- [SlingSite](https://slingsite.github.io) — Client-side image and video compressor: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device, entirely in the browser with no upload. Unlimited free use.
 
 ### Resources
 
