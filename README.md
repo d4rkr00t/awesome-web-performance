@@ -23,7 +23,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 - [Tools](#tools)
   - [Analyzers](#analyzers)
   - [Bundle Analyzers](#bundle-analyzers)
-  - [Benhcmarking / Load Testing](#benhcmarking--load-testing)
+  - [Benchmarking / Load Testing](#benchmarking--load-testing)
   - [Image Optimization](#image-optimization)
   - [Resources](#resources)
   - [RUM](#rum)
@@ -171,7 +171,7 @@ TBD
 - [Statoscope](https://github.com/statoscope/statoscope) — Statoscope is a toolkit to analyze and validate webpack bundle.
 - [Rsdoctor](https://rsdoctor.dev/) – Analyzer for Rspack & Webpack. Visualize the building process.
 
-### Benhcmarking / Load Testing
+### Benchmarking / Load Testing
 
 - [Yandex Tank](https://github.com/yandex/yandex-tank) — Load and performance benchmark tool.
 - [JSBen.ch](https://jsben.ch/) — Online JavaScript benchmarking tool.
@@ -185,6 +185,7 @@ TBD
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
+- [SlingSite](https://slingsite.github.io) — Client-side image and video compressor: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device, entirely in the browser with no upload. Unlimited free use.
 
 ### Resources
 
