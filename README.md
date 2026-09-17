@@ -64,6 +64,7 @@ A list of Web Performance Optimization techniques, tools and resources.
   - [Container Timing: measuring web components performance](https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance/) – PerformanceObserver, visual completeness, rendering, observability
   - [The implementation of Container Timing: aggregating paints in Blink](https://blogs.igalia.com/dape/2026/03/26/the-implementation-of-container-timing-aggregating-paints-in-blink/) – Blink, Browser Internals, Igalia.
   - [Reading a performance profile](https://perf.reviews/profile-guide) – Interactive guide on how to read Chrome performance profile
+  - [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/) – Optimising busy main thread. JavaScript, Runtime, Splitting, Batching, Prioritising, Defering.
 
 ## Talks / Videos
 
