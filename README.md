@@ -185,6 +185,7 @@ TBD
 - [Squoosh CLI](https://www.npmjs.com/package/@squoosh/cli) — Squoosh CLI is an experimental way to run all the codecs you know from the Squoosh web app on your command line using WebAssembly.
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
+- [AVIFCrate](https://avifcrate.com/) — Convert AVIF to JPG/JPEG in your browser; local private processing, bulk export, quality controls.
 - [SVGO](https://github.com/svg/svgo) — Node.js tool for optimizing SVG files.
 
 ### Resources
