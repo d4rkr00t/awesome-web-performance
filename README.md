@@ -184,6 +184,7 @@ TBD
 ### Image Optimization
 
 - [Squoosh](https://squoosh.app/) — Image compression app.
+- [PicRecast](https://picrecast.com/image-compressor) — Browser-based image compression, conversion and resizing with local processing.
 - [Squoosh CLI](https://www.npmjs.com/package/@squoosh/cli) — Squoosh CLI is an experimental way to run all the codecs you know from the Squoosh web app on your command line using WebAssembly.
 - [ImageOptim CLI](https://github.com/JamieMason/ImageOptim-CLI) — Make optimisation of images part of your automated build process.
 - [ImageOptim](https://imageoptim.com/mac) — ImageOptim optimizes images without losing quality or any metadata.
