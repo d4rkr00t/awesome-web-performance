@@ -101,6 +101,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 - 2023
   - [How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
   - [How Back/forward Cache Helped Yahoo! JAPAN News Increase Revenue by 9% on Mobile](https://web.dev/case-studies/yahoo-japan-news-bfcache) – Bfcache is a browser optimization that improves the browsing experience for users by enabling instant back and forward navigation. Yahoo! JAPAN News saw significant user experience and business improvements after increasing their bfcache hit rate, including a 9% increase in ads revenue.
+- 2025
+  - [How QuintoAndar reduced INP by 80%, increasing conversions by 36%](https://web.dev/case-studies/quintoandar-inp) — INP, Web Vitals, Interactivity, Conversions.
 
 ## Frameworks
 
