@@ -38,22 +38,22 @@ A list of Web Performance Optimization techniques, tools and resources.
 ## Articles
 
 - 2015
-  - [Rendering Performance – Web Fundamentals](https://developers.google.com/web/fundamentals/performance/rendering) — Browser Rendering, Browser Layout.
+  - [Rendering Performance – Web Fundamentals](https://web.dev/articles/rendering-performance) — Browser Rendering, Browser Layout.
   - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) — JavaScript, Event Loop, Microtasks, Tasks.
 - 2016
   - [The Right Way to Bundle Your Assets for Faster Sites Over HTTP2](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff) — Bundling, Network, HTTP, HTTP2.
 - 2020
   - [Maximally optimizing image loading for the web](https://www.industrialempathy.com/posts/image-optimizations/) — Images, Lazy Loading, HTML.
 - 2021
-  - [Overview of the RenderingNG architecture](https://developer.chrome.com/articles/renderingng-architecture/) — Chrome, RenderingNG, Browser Internals.
+  - [Overview of the RenderingNG architecture](https://developer.chrome.com/docs/chromium/renderingng-architecture) — Chrome, RenderingNG, Browser Internals.
 - 2022
-  - [Prerender pages in Chrome for instant page navigations](https://developer.chrome.com/blog/prerender-pages/) — Chrome, Page Load, Prerender, Prefetch.
+  - [Prerender pages in Chrome for instant page navigations](https://developer.chrome.com/docs/web-platform/prerender-pages) — Chrome, Page Load, Prerender, Prefetch.
   - [We’re using TTVC to measure performance on the web—and now you can too](https://dropbox.tech/frontend/measuring-ttvc-web-performance-metric-open-source-library) – TTVC, Web Vitals, Performance Metrics, RUM, Page Load.
 - 2023
   - [The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/) — CSS, Microsoft, Selector, DOM.
   - [Using :is() in complex selectors selects more than you might initially think](https://www.bram.us/2023/01/17/using-is-in-complex-selectors-selects-more-than-you-might-initially-think/) — CSS, Selectors.
   - [Fixing INP with a VIEWPORT tag](https://www.phpied.com/fixing-inp-with-a-viewport-tag/) – INP, WebVitals, Lighthouse, Viewport, Mobile
-  - [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/) – Large DOM sizes have more of an effect on interactivity than you might think. This guide explains why, and what you can do.
+  - [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/articles/dom-size-and-interactivity) – Large DOM sizes have more of an effect on interactivity than you might think. This guide explains why, and what you can do.
   - [Speeding up V8 heap snapshots](https://v8.dev/blog/speeding-up-v8-heap-snapshots) — Chrome, V8, Heap snapshots
   - [Reducing Filesizes with Compression Dictionaries and Delta Compression](https://calendar.perfplanet.com/2023/reducing-filesizes-with-compression-dictionaries-and-delta-compression/) — Compression dictionaries, delta compression, compression dictionary transport, minimizing bytes transferred.
 - 2024
@@ -97,10 +97,10 @@ A list of Web Performance Optimization techniques, tools and resources.
 ## Case Studies
 
 - 2021
-  - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
+  - [RFC Update theme shape](https://github.com/microsoft/fluentui/blob/master/docs/react-v9/contributing/rfcs/react-components/convergence/theme-shape.md) — CSS, CSS Variables, CSS Variables Performance, Microsoft.
 - 2023
   - [How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
-  - [How Back/forward Cache Helped Yahoo! JAPAN News Increase Revenue by 9% on Mobile](https://web.dev/yahoo-japan-news-bfcache/) – Bfcache is a browser optimization that improves the browsing experience for users by enabling instant back and forward navigation. Yahoo! JAPAN News saw significant user experience and business improvements after increasing their bfcache hit rate, including a 9% increase in ads revenue.
+  - [How Back/forward Cache Helped Yahoo! JAPAN News Increase Revenue by 9% on Mobile](https://web.dev/case-studies/yahoo-japan-news-bfcache) – Bfcache is a browser optimization that improves the browsing experience for users by enabling instant back and forward navigation. Yahoo! JAPAN News saw significant user experience and business improvements after increasing their bfcache hit rate, including a 9% increase in ads revenue.
 
 ## Frameworks
 
@@ -123,8 +123,8 @@ A list of Web Performance Optimization techniques, tools and resources.
 ## Blogs
 
 - [https://calendar.perfplanet.com/](https://calendar.perfplanet.com/)
-- [https://web.dev/tags/performance/](https://web.dev/tags/performance/)
-- [https://developer.chrome.com/tags/performance/](https://developer.chrome.com/tags/performance/)
+- [web.dev — Web performance guides](https://web.dev/performance)
+- [Chrome for Developers — Performance docs](https://developer.chrome.com/docs/performance)
 - [https://v8.dev/](https://v8.dev/)
 - [https://csswizardry.com/](https://csswizardry.com/)
 - [Infrequently Noted](https://infrequently.org/)
@@ -143,7 +143,7 @@ A list of Web Performance Optimization techniques, tools and resources.
 
 ## Courses
 
-- [Lightning-Fast Web Performance](https://www.webpagetest.org/learn/lightning-fast-web-performance/) — Free course from WebPageTest. Beginner level.
+TBD
 
 ## Books
 
@@ -161,16 +161,16 @@ TBD
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
-- [Capo](https://chrome.google.com/webstore/detail/capo-get-your-%3Chead%3E-in-o/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
+- [Capo](https://chromewebstore.google.com/detail/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
 
 ### Bundle Analyzers
 
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) — Analyze and debug space usage through source maps.
 - [BundlePhobia](https://bundlephobia.com/) — Find the cost of adding a npm package to your bundle.
-- [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) — Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+- [Webpack Bundle Analyzer](https://github.com/webpack/webpack-bundle-analyzer) — Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Whybundled](https://github.com/d4rkr00t/whybundled) — Answers the question – Why the hell is this module in a bundle?
 - [Statoscope](https://github.com/statoscope/statoscope) — Statoscope is a toolkit to analyze and validate webpack bundle.
-- [Rsdoctor](https://rsdoctor.dev/) – Analyzer for Rspack & Webpack. Visualize the building process.
+- [Rsdoctor](https://rsdoctor.rs/) – Analyzer for Rspack & Webpack. Visualize the building process.
 
 ### Benhcmarking / Load Testing
 
@@ -209,11 +209,11 @@ TBD
 
 ## Specs
 
-- [Web Performance Working Group](https://www.w3.org/webperf/) — The mission of the Web Performance Working Group is to provide methods to measure aspects of application performance of user agent features and APIs.
+- [Web Performance Working Group](https://webperfwg.org/) — The mission of the Web Performance Working Group is to provide methods to measure aspects of application performance of user agent features and APIs.
 
 ## Stats
 
-- [HTTPArchive](http://httparchive.org/index.php) — HTTP Archive periodically crawls the top sites on the web and record detailed information about fetched resources, used web platform APIs and features, and execution traces of each page. And then crunches and analyze this data to identify trends.
+- [HTTPArchive](https://httparchive.org/) — HTTP Archive periodically crawls the top sites on the web and record detailed information about fetched resources, used web platform APIs and features, and execution traces of each page. And then crunches and analyze this data to identify trends.
 - [WPO Stats](https://wpostats.com/) — Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 
 ## Other Awesome Lists
