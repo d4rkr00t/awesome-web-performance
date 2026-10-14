@@ -164,6 +164,7 @@ TBD
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
 - [Capo](https://chromewebstore.google.com/detail/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
+- [FreshTrace](https://qsxustc.github.io/freshtrace/) — Explain HTTP cache-header decisions with offline browser and shared-cache timelines and a zero-dependency CLI.
 
 ### Bundle Analyzers
 
