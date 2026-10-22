@@ -164,6 +164,7 @@ TBD
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
 - [Capo](https://chromewebstore.google.com/detail/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
+- [Israeli Web Accessibility & Performance Auditor](https://github.com/sagive/israeli-accessibility-extension) — Chrome extension and automated DOM auditor for IS 5568 / WCAG 2.1 AA compliance and web performance auditing by BrandTactics.
 
 ### Bundle Analyzers
 
