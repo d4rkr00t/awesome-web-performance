@@ -161,6 +161,7 @@ TBD
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) — Automated auditing, performance metrics, and best practices for the web.
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
+- [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) — Analyze and compare web performance using PageSpeed Insights and Chrome UX Report through MCP clients.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
 - [RequestMap](https://requestmap.webperf.tools/) — Rapidly identify what third-parties are on your site, where your transmitted bytes are coming from and how slow your domains are!
 - [Capo](https://chromewebstore.google.com/detail/ohabpnaccigjhkkebjofhpmebofgpbeb) — Visualize the optimal ordering of <head> elements on any web page.
