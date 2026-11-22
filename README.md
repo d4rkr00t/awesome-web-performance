@@ -159,6 +159,7 @@ TBD
 
 ### Analyzers
 
+- [FieldOS](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader) — Free instant website grader: scores performance, SEO, accessibility, and security with actionable fixes.
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) — Automated auditing, performance metrics, and best practices for the web.
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
