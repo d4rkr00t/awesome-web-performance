@@ -159,6 +159,7 @@ TBD
 
 ### Analyzers
 
+- [FieldOS](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader) — Free instant website grader: scores performance, SEO, accessibility, and security with actionable fixes.
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) — Automated auditing, performance metrics, and best practices for the web.
 - [PageSpeed Insights](https://pagespeed.web.dev/) — Lighthouse as a Service.
 - [WebPageTest.org](https://www.webpagetest.org/) — Web Performance and Optimization Test.
@@ -168,6 +169,7 @@ TBD
 ### Bundle Analyzers
 
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) — Analyze and debug space usage through source maps.
+- [Betterloop](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grader) - Free instant website grader: scores any URL on speed (Core Web Vitals), SEO, and best practices in seconds, no signup.
 - [BundlePhobia](https://bundlephobia.com/) — Find the cost of adding a npm package to your bundle.
 - [Webpack Bundle Analyzer](https://github.com/webpack/webpack-bundle-analyzer) — Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 - [Whybundled](https://github.com/d4rkr00t/whybundled) — Answers the question – Why the hell is this module in a bundle?
